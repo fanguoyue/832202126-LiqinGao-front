@@ -1,0 +1,21 @@
+{
+  "name": "addresslist",
+  "version": "1.0.0",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^2.6.12",
+    "webpack": "^5.95.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.5.0"
+  },
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+
